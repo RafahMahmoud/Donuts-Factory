@@ -1,4 +1,7 @@
 answers = []; 
+answers.push(fName);
+ answers.push(gender);
+
   var ask = prompt("What do you want to order: Donuts, Coffee, Icecream, Bakery?");
   if (ask=="Donuts" || "Coffee" || "Icecream" || "Bakery")
     {
