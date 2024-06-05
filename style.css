@@ -1,0 +1,71 @@
+.navbar-expand-lg{
+    display: flex;
+    justify-content: space-between;
+    background-color: #F3D0D7 !important;
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    align-items: center;
+    padding: 0px;
+}
+#navbar-logo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-expand-lg .container{
+    margin-left: 60px;
+}
+#navbarSupportedContent{
+    margin-left: 315px;
+}
+.navbar-brand img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
+.navbar-brand span{
+    color: #231611;
+    text-transform: uppercase;
+    font-size: 1.4em;
+    font-weight: 500;
+}
+.nav-item a{
+    color: #231611;
+    text-decoration: none;
+    font-size: 1.2em;
+    font-weight: 400;
+}
+.nav-item a img{
+    width: 45px;
+    height: 45px;
+}
+.nav-item a:hover{
+    color: rgb(249, 249, 218);
+    font-weight: 700;
+}
+body{
+    background-color: #F6F5F2!important;
+}
+.text{
+    font-size: x-large;
+    color: black;
+ }
+ #hero button{
+   color: #ffffff;
+    font-weight: bold;
+    background-color: #000000;
+ }
+
+.card img{
+    height: 300px;
+ }
+ .first-section{
+    background-image: url("food.jpg")!important;
+    background-repeat: repeat;
+    background-size: 34%;
+    height: auto;
+    margin-bottom: 0px;
+    color: white;
+    font-weight: bold;
+ }
