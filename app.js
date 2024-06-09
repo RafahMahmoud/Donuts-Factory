@@ -35,12 +35,15 @@ let content3 = document.createTextNode("Order : " + order);
 listItem3.appendChild(content3);
 list.appendChild(listItem3);
 input.appendChild(list);
+input.style.fontSize="large";
+input.style.fontWeight="bold";
 input.style.display="flex";
 input.style.flexDirection="column";
 input.style.alignItems="center";
 
 let text = document.createElement('p');
 let textContent = document.createTextNode(" Welcome, my darlings. We promise you that we will serve you the most delicious donuts, bakeries ,ice-creams and coffee as quickly as possible, 24 hours a day, 7 days a week.");
+text.style.paddingTop=('50px');
 text.style.fontSize =( "x-large");
 text.style.color=('black');
 text.style.fontWeight=('bold');
