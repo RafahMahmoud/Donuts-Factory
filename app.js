@@ -1,11 +1,7 @@
 let answers = []; 
 answers.push(fName);
  answers.push(gender);
-<<<<<<< HEAD
  var age = prompt("How old are you?");
-=======
-ل
->>>>>>> bbd45360b996d061a11a1be3e8c79ce47002bd91
   var ask = prompt("What do you want to order: Donuts, Coffee, Icecream, Bakery?");
   if (ask==  "Donuts" || "Coffee" || "Icecream" || "Bakery")
     {
