@@ -47,10 +47,7 @@
 body{
     background-color: #F6F5F2!important;
 }
-.text{
-    font-size: x-large;
-    color: black;
- }
+
  #hero button{
    color: #ffffff;
     font-weight: bold;
@@ -60,12 +57,4 @@ body{
 .card img{
     height: 300px;
  }
- .first-section{
-    background-image: url("food.jpg")!important;
-    background-repeat: repeat;
-    background-size: 34%;
-    height: auto;
-    margin-bottom: 0px;
-    color: white;
-    font-weight: bold;
- }
+ 
