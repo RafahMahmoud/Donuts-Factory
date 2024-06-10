@@ -52,3 +52,4 @@ text.appendChild(textContent);
 document.body.appendChild(text);
 let first = document.getElementById("first")
 first.before(text);
+console.log("mohammed");
