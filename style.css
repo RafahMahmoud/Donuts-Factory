@@ -57,4 +57,16 @@ body{
 .card img{
     height: 300px;
  }
+ form{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    
+ }
+ form p{
+    display: inline-block;
+
+ }
+ form input{
+    margin: 20px;
+ }
  
